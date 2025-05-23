@@ -10,8 +10,9 @@ Visit my site here: [oscar-lopez-02.github.io/oscar-dev-portafolio](https://osca
 
 | Course Number | Course Name |  
 |--------------|-------------|  
-| CSC 2330 | [Data Structures and Programming II]([Data-Structures-and-Programming-2/Data-Structures-and-Programming-2.html](https://oscar-lopez-02.github.io/oscar-dev-portafolio/Data-Structures-and-Programming-2/Data-Structures-and-Programming-2.html)) |  
-| EE 3280 | [Microcontroller System Design]([Microcontroller-System-Design/Microcontroller-System-Design.html](https://oscar-lopez-02.github.io/oscar-dev-portafolio/Microcontroller-System-Design/Microcontroller-System-Design.html)) |  
+| CSC 2330 | [Data Structures and Programming II]([https://oscar-lopez-02.github.io/oscar-dev-portafolio/Data-Structures-and-Programming-2/Data-Structures-and-Programming-2.html) |  
+| EE 3280 | [Microcontroller System Design](https://oscar-lopez-02.github.io/oscar-dev-portafolio/Microcontroller-System-Design/Microcontroller-System-Design.html) |
+ 
 
 ## 📂 Projects  
 - **Microcontroller System Design**  [View Here](Microcontroller-System-Design/)  
