@@ -6,7 +6,7 @@
 ## Live Demo IO Page
 Visit my site here: [oscar-lopez-02.github.io/oscar-dev-portafolio](https://oscar-lopez-02.github.io/oscar-dev-portafolio)  
 
-## 📚 Courses  
+## Courses  
 
 | Course Number | Course Name |  
 |--------------|-------------|  
@@ -14,6 +14,8 @@ Visit my site here: [oscar-lopez-02.github.io/oscar-dev-portafolio](https://osca
 | EE 3280 | [Microcontroller System Design](https://oscar-lopez-02.github.io/oscar-dev-portafolio/Microcontroller-System-Design/Microcontroller-System-Design.html) |
  
 
-## 📂 Projects  
-- **Microcontroller System Design**  [View Here](Microcontroller-System-Design/)  
+## 📂 Projects 
+Files are available in my GitHub repository:
+
+-**Microcontroller System Design**  [View Here](Microcontroller-System-Design/)   
 - **Data Structures & Programming II** [View Here](Data-Structures-and-Programming-2/)  
